@@ -1,0 +1,25 @@
+{
+  "last_updated": "November 2026",
+  "sections": [
+    {
+      "title": "1. Strict Zero-Log Commitment",
+      "content": "FadVPN strictly operates under a verified zero-logs protocol. We do not inspect, log, store, or monitor your online activity, websites visited, search queries, IP addresses, or transmitted payload data."
+    },
+    {
+      "title": "2. High-Grade Data Encryption",
+      "content": "All data traveling between your device and global secure gateways is encapsulated using industry-standard cryptographic tunneling protocols. Encryption keys are generated dynamically in volatile device memory and purged immediately upon disconnection."
+    },
+    {
+      "title": "3. On-Device Traffic Filtering",
+      "content": "App Protection and firewall preferences operate strictly on your local device environment. Routing selections never transmit application inventories or user diagnostics to external servers."
+    },
+    {
+      "title": "4. Telemetry & Anonymous Diagnostics",
+      "content": "When submitting voluntary bug reports or support tickets, only minimal non-identifying telemetry (such as OS version and app release) is collected solely to enhance connection reliability."
+    },
+    {
+      "title": "5. Legal Disclosures & Transparency",
+      "content": "Because we maintain zero traffic logs and zero connection records, we possess no identifiable user history to disclose to third parties, regulatory bodies, or external authorities."
+    }
+  ]
+}

@@ -1,25 +1,52 @@
 {
-  "last_updated": "November 2026",
+  "last_updated": "November 5, 2026",
+  "document_title": "FadVPN Master Privacy Policy & Core Infrastructure Protocol",
+  "meta_legal": {
+    "version": "2.4.0",
+    "effective_date": "November 5, 2026",
+    "compliance": ["Google Play Developer Program Policy", "GDPR", "CCPA", "CalOPPA"],
+    "jurisdiction": "Global Application Operations"
+  },
   "sections": [
     {
-      "title": "1. Strict Zero-Log Commitment",
-      "content": "FadVPN strictly operates under a verified zero-logs protocol. We do not inspect, log, store, or monitor your online activity, websites visited, search queries, IP addresses, or transmitted payload data."
+      "heading": "1. Comprehensive Zero-Log Architecture & Commitment",
+      "body": "FadVPN operates under an uncompromising, mathematically enforced Zero-Log Protocol. We operate under the premise that user confidentiality cannot be compromised if private metrics are fundamentally unrecorded. We strictly enforce that our application and infrastructure do NOT inspect, monitor, store, log, or profile any of the following parameters under any circumstance:\n\n• Browsing activities, accessed Uniform Resource Identifiers (URIs), visited websites, or software payload streams.\n• Destination server IP addresses, DNS queries, resolution lookups, or metadata packet headers.\n• Original residential or cellular public IP addresses assigned to your physical network interface.\n• Bandwidth volume counters, specific session initiation/termination timestamps, or sustained connection lifespans.\n\nOur systems are architected to establish an ephemeral barrier between device traffic and intermediary networks, ensuring that neither our organization nor external actors can reconstruct your activity records."
     },
     {
-      "title": "2. High-Grade Data Encryption",
-      "content": "All data traveling between your device and global secure gateways is encapsulated using industry-standard cryptographic tunneling protocols. Encryption keys are generated dynamically in volatile device memory and purged immediately upon disconnection."
+      "heading": "2. High-Performance Tunneling Infrastructure: Cloudflare WARP Protocol",
+      "body": "To achieve maximum connection stability, low-latency routing, and cryptographic packet encapsulation, FadVPN integrates network infrastructure powered by Cloudflare WARP:\n\n• Encryption Standard: Encapsulation occurs via next-generation cryptographic wire protocols, running modern cipher suites designed to thwart network interception on public, corporate, or unsecured Wi-Fi interfaces.\n• Ephemeral Edge Handling: Incoming network traffic is routed across thousands of distributed edge points of presence. Traffic packets are dynamically encrypted, forwarded, and immediately flushed from volatile server RAM without persistent database commitment.\n• No Third-Party Resale: Cloudflare's privacy covenants explicitly prohibit the monetization or sale of browsing traffic, guaranteeing that your real physical location remains fully masked from visited sites.\n• Performance Optimization: Automated routing algorithms connect your device to the lowest-ping geographic node, minimizing transmission jitter while upholding full tunnel security."
     },
     {
-      "title": "3. On-Device Traffic Filtering",
-      "content": "App Protection and firewall preferences operate strictly on your local device environment. Routing selections never transmit application inventories or user diagnostics to external servers."
+      "heading": "3. Decentralized OpenVPN Gate Academic Relay Disclosure",
+      "body": "In addition to proprietary fast-path relays, FadVPN provides connection capabilities to public decentralized volunteer nodes managed under the global OpenVPN Gate academic research network (an initiative founded by the University of Tsukuba, Japan):\n\n• Volunteer Server Architecture: Users acknowledge that OpenVPN Gate endpoints are operated by decentralized academic, corporate, and independent volunteer hosts globally. While raw network packets flowing from your handset to the volunteer gateway are fully protected by cryptographic OpenVPN tunnels, the volunteer host operates the egress gateway to the broader public internet.\n• Academic Anti-Abuse Logging: Certain volunteer servers on the OpenVPN Gate relay network may maintain independent, transient connection logs (including connection timestamp and transferred volume) purely for anti-abuse compliance and academic telemetry. These operations are managed autonomously by their respective hosting operators.\n• Identity Protection & Isolation: FadVPN completely prevents personal account identifiers, user contact entries, device serial identifiers, and hardware telemetry from ever reaching volunteer node operators. Users requiring guaranteed zero-telemetry routing are advised to select our dedicated auto-optimized nodes."
     },
     {
-      "title": "4. Telemetry & Anonymous Diagnostics",
-      "content": "When submitting voluntary bug reports or support tickets, only minimal non-identifying telemetry (such as OS version and app release) is collected solely to enhance connection reliability."
+      "heading": "4. On-Device Application Firewall & Installed Packages Safety",
+      "body": "FadVPN features a local, client-side App Protection & Firewall engine permitting users to selectively designate which Android packages may bypass or enter the encrypted tunnel:\n\n• Strict Local Resolution: In compliance with Google Play Store User Data & Device Inventory Policies, installed package identification and traffic diversion routines are executed strictly within the local device memory of your handset (Android OS loopback interface).\n• Zero Package Inventory Exfiltration: FadVPN NEVER scans, indexes, uploads, or transmits your list of installed applications, banking suites, or utility packages to remote servers. All firewall switches, package package names, and app-level blocks are retained inside device-encrypted sandbox storage.\n• No System Interference: The firewall engine enforces traffic barriers cleanly by returning loopback signals to blocked applications, preventing background data drain without altering underlying system partitions."
     },
     {
-      "title": "5. Legal Disclosures & Transparency",
-      "content": "Because we maintain zero traffic logs and zero connection records, we possess no identifiable user history to disclose to third parties, regulatory bodies, or external authorities."
+      "heading": "5. Diagnostic Submissions, Bug Reports & Telemetry Safeguards",
+      "body": "When users voluntarily utilize the 'Report an Issue' or 'Contact Support' modules within FadVPN, minimal contextual telemetry is transmitted to facilitate technical resolution:\n\n• Captured Operational Context: Diagnostic payloads are limited to user-provided descriptions, selected issue category, application build number, device model, Android OS version, and a 2-letter ISO geographical country identifier (resolved via network edge trace without GPS access).\n• Optional Direct Contact: Email addresses or phone numbers provided within support tickets are utilized exclusively for technical replies and resolution communication. They are never repurposed for marketing promotions, behavioral profiling, or advertising trackers.\n• Secured Transmission: All telemetry packets are dispatched over authenticated, encrypted HTTPS channels directly to our protected backend logs and purged after resolution review."
+    },
+    {
+      "heading": "6. Third-Party Frameworks & Advertising Disclosures",
+      "body": "FadVPN maintains an uncompromising stance against aggressive programmatic ad networks and behavioral trackers:\n\n• No Third-Party Tracking SDKs: We do not integrate data harvesting software development kits (SDKs) designed to construct advertising graphs or behavioral dossiers across external ecosystems.\n• Diagnostic Utilities: Standard core developer frameworks (such as platform package metadata readers and crash telemetry interfaces) run in restricted sandbox configurations without permissions to harvest device contact books, biometric data, media files, or hardware identifiers (IMEI/MAC)."
+    },
+    {
+      "heading": "7. Child Privacy & COPPA/GDPR Compliance",
+      "body": "FadVPN is engineered for general audience usage and does not intentionally solicit, collect, or store personal information from individuals under the age of 13 (or under 16 within applicable European Union jurisdictions). Because our system architecture is inherently zero-log and requires no consumer registration to establish tunnel encryption, personal data belonging to minors is never retained on our systems."
+    },
+    {
+      "heading": "8. Dynamic Policy Evolution & Unilateral Amendment Rights",
+      "body": "To maintain alignment with evolving international telecommunication mandates, cryptographic standards, and Google Play Store Developer Program rules, FadVPN reserves the absolute and unilateral right to revise, modernize, or amend this Privacy Policy at any time without advance individual notifications:\n\n• Dynamic Edge Updates: Any operational, legal, or infrastructural update to this policy is committed directly to our public repository network and rendered dynamically inside the application.\n• User Responsibility: Users are advised to review this document periodically. Continued execution of the FadVPN client following published revisions constitutes full, legally binding assent to the updated provisions."
+    },
+    {
+      "heading": "9. Regulatory Disclosures & Jurisdictional Transparency",
+      "body": "We believe in authentic transparency regarding regulatory requests. In the event that government authorities, law enforcement bodies, or legal jurisdictions request user records or operational databases, our technical response remains consistent: because FadVPN implements a pure zero-log architecture, we possess no connection databases, browsing histories, originating IP logs, or decryptable session records to provide, extract, or surrender."
+    },
+    {
+      "heading": "10. Contacting Privacy & Engineering Governance",
+      "body": "For formal inquiries regarding this Privacy Policy, technical clarifications regarding our encrypted wire protocols, or regulatory transparency audits, users may interface directly with our engineering division through the dedicated in-app 'Contact Support' screen or by dispatching an inquiry ticket through our verified support channels."
     }
   ]
 }

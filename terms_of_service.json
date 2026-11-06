@@ -1,0 +1,52 @@
+{
+  "last_updated": "November 5, 2026",
+  "document_title": "FadVPN Master Terms of Service & End-User License Agreement",
+  "meta_legal": {
+    "version": "2.4.0",
+    "effective_date": "November 5, 2026",
+    "jurisdiction": "Global Application Operations",
+    "compliance": ["Google Play Developer Distribution Agreement", "DMCA", "Global Consumer Standards"]
+  },
+  "sections": [
+    {
+      "heading": "1. Binding Legal Agreement & Acceptance of Terms",
+      "body": "By downloading, installing, launching, or utilizing any feature of FadVPN (including our virtual private network tunneling protocols and on-device firewall utilities), you unequivocally enter into a legally binding agreement with FadVPN Operations. If you do not consent to all provisions outlined in these Terms of Service, you must immediately terminate the execution of the application and uninstall it from your device partitions. Continued presence and operation of the client constitute complete assent to these terms."
+    },
+    {
+      "heading": "2. Grant of Limited, Non-Exclusive Software License",
+      "body": "Subject to your strict compliance with these Terms, FadVPN grants you a personal, worldwide, revocable, non-exclusive, non-transferable, and royalty-free license to execute the application on authorized personal Android devices. You may not decompile, reverse-engineer, disassemble, modify, lease, distribute, or create derivative works from the application binary, except to the extent permitted by applicable open-source cryptographic licenses."
+    },
+    {
+      "heading": "3. Acceptable Use Policy & Absolute Prohibitions",
+      "body": "FadVPN is engineered strictly for privacy preservation, transport security, and legitimate internet data encryption. You agree that you shall NOT utilize the network tunnel to:\n\n• Transmit, distribute, or coordinate unlawful, defamatory, harassing, or infringing media content.\n• Engage in unauthorized system intrusion, denial-of-service (DoS/DDoS) operations, network vulnerability scans, or port exhaustion exploits.\n• Circumvent legitimate digital access barriers to facilitate copyright infringement, programmatic scraper bots, or automated mass-crawling activities.\n• Transmit unauthorized spam, mass commercial solicitations, or malicious payload distributions (trojans, worms, or spyware).\n\nAny detected violation of these prohibitions may result in immediate local application termination or gateway-level traffic dropping without prior recourse."
+    },
+    {
+      "heading": "4. Network Routing Infrastructure & Third-Party Gateways",
+      "body": "FadVPN utilizes hybrid network relay technologies to secure your data packets:\n\n• Cloudflare WARP Relays: When utilizing auto-optimized connections, traffic is routed through encrypted Cloudflare edge facilities subject to global transport protocols.\n• Decentralized Academic Nodes: When connecting through public volunteer endpoints (such as OpenVPN Gate operated under the University of Tsukuba research initiative), you acknowledge that these servers are hosted independently by distributed volunteer entities. FadVPN exercises no sovereign administrative control over external volunteer relay hardware.\n• No Performance Guarantees: Routing latency, geographic egress endpoints, and connection speeds vary dynamically based on telecommunication carrier routing, physical distance, and public gateway loads."
+    },
+    {
+      "heading": "5. On-Device Application Firewall Governance",
+      "body": "FadVPN provides an on-device application filtering and packet loopback engine. You understand that managing firewall toggles modifies system data routing for designated applications on your handset. FadVPN assumes no operational liability for degraded functionality, lost background notifications, or session disruptions within third-party packages caused by user-configured firewall rules."
+    },
+    {
+      "heading": "6. Third-Party Advertising & Monetization Disclosures",
+      "body": "To sustain high-speed global relay infrastructure, FadVPN may incorporate non-intrusive advertisements supported by certified mobile ad networks (including Google AdMob, Meta Audience Network, and partner programmatic exchanges). Advertisements displayed within the application interface are served by automated third-party ad exchanges. FadVPN does not endorse, verify, or assume responsibility for goods, services, or claims promoted within third-party advertising creatives."
+    },
+    {
+      "heading": "7. Unilateral Modification Rights & Dynamic Policy Updates",
+      "body": "FadVPN reserves the unilateral and unreserved authority to revise, modernize, append, or replace these Terms of Service at any time at its sole administrative discretion:\n\n• Instant Implementation: Amended provisions become effective immediately upon public commitment to our legal repository network and in-app rendering.\n• Continuous Audit: It is your sole responsibility to inspect these Terms periodically. Your sustained execution of the application following the publication of revisions constitutes legally enforceable validation of the modernized terms."
+    },
+    {
+      "heading": "8. Complete Disclaimer of Warranties ('As-Is' Provision)",
+      "body": "FadVPN, its underlying cryptographic routing frameworks, and all connected services are delivered strictly on an 'AS-IS' and 'AS-AVAILABLE' basis without warranties of any variety, whether express, statutory, or implied. To the maximum extent permitted under governing jurisprudence, FadVPN explicitly disclaims all warranties of merchantability, fitness for a specific telecommunications purpose, and non-infringement. We make no warranty that tunnel connectivity will remain uninterrupted, perpetually error-free, or resilient against national gateway filters."
+    },
+    {
+      "heading": "9. Absolute Limitation of Liability & Indemnification",
+      "body": "Under no legal circumstances, including tort, contract, or strict liability, shall FadVPN, its developers, affiliates, or infrastructure partners be liable for any indirect, incidental, consequential, punitive, or special damages (including loss of profits, commercial interruption, data corruption, or mobile carrier penalty charges) arising out of the installation, operation, or inability to execute the client. You agree to defend, indemnify, and hold harmless FadVPN from any claims or liabilities resulting from your breach of these Terms."
+    },
+    {
+      "heading": "10. Inquiries & Technical Governance",
+      "body": "For formal legal inquiries, commercial licensing clarifications, or administrative correspondence concerning these Terms of Service, users may establish direct communication through the in-app 'Contact Support' interface or dispatch an inquiry to our designated legal division."
+    }
+  ]
+}
